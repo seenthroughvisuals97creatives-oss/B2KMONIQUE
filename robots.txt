@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seenthroughvisuals97creatives-oss.github.io/B2KMONIQUE/sitemap.xml
